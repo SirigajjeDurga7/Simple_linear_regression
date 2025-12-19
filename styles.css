@@ -9,6 +9,7 @@
 }
 
 .card{
+    color : black;
     background-color: #ffffff;
     padding: 25px;
     border-radius: 16px;
@@ -18,7 +19,7 @@
 }
 
 h1,h2,h3{
-    color: #0f172a;    
+    color: black;    
 }
 
 div[data-testid="metric-container"]{
@@ -41,3 +42,4 @@ div[data-testid="metric-container"]{
     color: #0f3f22;
     margin-top: 15px;
 }
+
